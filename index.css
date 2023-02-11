@@ -11,6 +11,9 @@
     .changeVH {
         height: 40vh !important;
     }
+    html {
+      font-size: 10 !important;
+    }
   }
   .nav-bar {
     background-color: #333333 !important;
